@@ -3,9 +3,9 @@ body {
 }
 
 hr {
-  background-color: white;
-  border-style: dotted;
-  border-color: #808080;
-  height: 1px;
-  width: 30%;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
 }
